@@ -1,0 +1,18 @@
+{
+  "name": "testpancake-swap-periphery",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@uniswap/lib": "^1.1.1",
+    "@uniswap/v2-core": "^1.0.1",
+    "truffle-hdwallet-provider": "^1.0.17",
+    "truffle-plugin-verify": "^0.4.0"
+  }
+}
